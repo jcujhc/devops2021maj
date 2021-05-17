@@ -8,3 +8,4 @@
 # som hlupak neviem ako ten posraty git funguje !!!!!!!!
 
 # NECHEPEM !!!!!!!
+# NECHEPEM !!!!!!!
