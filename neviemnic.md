@@ -14,7 +14,7 @@
 
 
 
-# 17L JCUJ
 
-# som hlupak neviem ako ten posraty git funguje !!!!!!!!
+
+
 
