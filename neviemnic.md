@@ -7,3 +7,9 @@
 
 # som hlupak neviem ako ten posraty git funguje !!!!!!!!
 
+
+
+
+
+
+# som hlupak neviem ako ten posraty git funguje !!!!!!!!
