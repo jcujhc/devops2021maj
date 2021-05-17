@@ -7,6 +7,8 @@
 
 # som hlupak neviem ako ten posraty git funguje !!!!!!!!
 
+# 16L HEFO
+
 
 # NECHEPEM !!!!!!!
 # NECHEPEM !!!!!!!
@@ -15,6 +17,9 @@
 
 
 # 17L JCUJ
+
+
+
 
 
 
