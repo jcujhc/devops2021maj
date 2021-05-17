@@ -5,6 +5,6 @@
 ## este stale neviem nic o gite po tomto skoleni
 ## este stale neviem nic o gite po tomto skoleni
 
-
+# som hlupak neviem ako ten posraty git funguje !!!!!!!!
 
 # NECHEPEM !!!!!!!
