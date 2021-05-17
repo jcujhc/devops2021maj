@@ -4,3 +4,13 @@
 
 ## este stale neviem nic o gite po tomto skoleni
 ## este stale neviem nic o gite po tomto skoleni
+
+
+
+
+
+
+
+
+
+## JOZI CUJ
