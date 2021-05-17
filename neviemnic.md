@@ -13,7 +13,7 @@
 
 
 
-
+# 16L HEFO
 
 
 # som hlupak neviem ako ten posraty git funguje !!!!!!!!
