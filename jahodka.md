@@ -12,4 +12,4 @@ jahodka
 
 jahodka
 
-
+Uz ziadne jahody prosim....
