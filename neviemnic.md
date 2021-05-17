@@ -7,5 +7,14 @@
 
 # som hlupak neviem ako ten posraty git funguje !!!!!!!!
 
+
 # NECHEPEM !!!!!!!
 # NECHEPEM !!!!!!!
+
+
+
+
+
+
+# som hlupak neviem ako ten posraty git funguje !!!!!!!!
+
