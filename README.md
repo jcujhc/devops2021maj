@@ -5,6 +5,5 @@ devops2021maj
 dsadsa
 
 
-dadsadsadsadsa
-Nieco zmenene
-Nieco zmenene
+Novy riadok pre novabranch.
+
